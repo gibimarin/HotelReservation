@@ -1,0 +1,24 @@
+{
+  "name": "hotel-reservation-system",
+  "version": "1.0.0",
+  "description": "Hotel Reservation & Front Desk Management System",
+  "private": true,
+  "scripts": {
+    "server:dev": "npm --prefix server run dev",
+    "server:build": "npm --prefix server run build",
+    "server:start": "npm --prefix server run start",
+    "client:dev": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "test": "npm --prefix server run test",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": [
+    "hotel-reservation",
+    "mern",
+    "typescript",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
