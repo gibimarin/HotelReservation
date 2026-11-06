@@ -33,6 +33,16 @@ Architected with a decoupled 3-tier structure, zero-trust server validation, ser
 
 ---
 
+## 🎥 Project Demo
+
+Watch the Hotel Reservation System demonstration:
+
+[![Watch Hotel Reservation System Demo](https://img.youtube.com/vi/5BTt7UQrw88/hqdefault.jpg)](https://youtu.be/5BTt7UQrw88)
+
+**Video:** [Watch on YouTube](https://youtu.be/5BTt7UQrw88)
+
+---
+
 ## 1. High-Level System Architecture
 
 The application is structured into two decoupled TypeScript projects (`client` and `server`):
